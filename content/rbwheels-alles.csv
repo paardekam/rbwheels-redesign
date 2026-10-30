@@ -1,0 +1,168 @@
+﻿sectie,veld,waarde
+meta,title,RBwheels Alphen a/d Rijn
+meta,lang,nl-NL
+meta,description,
+meta,og_image,http://static1.squarespace.com/static/66d8b61f9d9c6f3606648699/t/66f022d90a176e32f33c79d6/1727013593750/IMG_4066.jpg?format=1500w
+meta,logo,https://images.squarespace-cdn.com/content/v1/66d8b61f9d9c6f3606648699/9c555cb2-6d4b-4e0e-af02-23861c2a77ae/logo.png?format=1500w
+meta,platform,Squarespace
+meta,pages_in_sitemap[1],https://www.rbwheels.net/home
+navigation,[1].label,Diensten
+navigation,[1].href,#rbw-diensten
+navigation,[2].label,Fatbikes
+navigation,[2].href,#rbw-fatbikes
+navigation,[3].label,Reviews
+navigation,[3].href,#rbw-reviews
+navigation,[4].label,Over ons
+navigation,[4].href,#rbw-over-ons
+navigation,[5].label,FAQ
+navigation,[5].href,#rbw-faq
+navigation,[6].label,Contact
+navigation,[6].href,#rbw-contact
+header_cta,label,WhatsApp ons
+header_cta,href,https://wa.me/31629754087?text=Hoi%20RB%20Wheels%2C%20ik%20heb%20een%20vraag%20over%20mijn%20scooter.
+header_cta,whatsapp_text,"Hoi RB Wheels, ik heb een vraag over mijn scooter."
+announcement,tag,NIEUW
+announcement,text,"we repareren en onderhouden nu ook elektrische fatbikes, bekijk de mogelijkheden →"
+announcement,href,#rbw-fatbikes
+hero,eyebrow,Scootergarage · Alphen aan den Rijn
+hero,heading,Scooter stuk? Zelfde week nog weer op straat.
+hero,lead,"Reparatie, onderhoud en schadeherstel voor elk merk scooter. Eén monteur, persoonlijk contact, eerlijke prijzen — en we komen 'm ophalen als jouw scooter niet meer rijdt."
+hero,ctas[1].label,Stuur een WhatsApp
+hero,ctas[1].href,https://wa.me/31629754087?text=Hoi%20RB%20Wheels%2C%20ik%20heb%20een%20vraag%20over%20mijn%20scooter.
+hero,ctas[1].whatsapp_text,"Hoi RB Wheels, ik heb een vraag over mijn scooter."
+hero,ctas[2].label,Bekijk diensten & prijzen
+hero,ctas[2].href,https://www.rbwheels.net/#rbw-diensten
+hero,ctas[2].whatsapp_text,
+hero,trust[1].value,"5,0 ★"
+hero,trust[1].label,102 Google-reviews
+hero,trust[2].value,24 uur
+hero,trust[2].label,ophaalservice
+hero,trust[3].value,Alle merken
+hero,trust[3].label,reparatie & onderhoud
+hero,image.src,https://images.squarespace-cdn.com/content/v1/66d8b61f9d9c6f3606648699/65625c37-f377-4607-91bf-8c7041711de8/workshop3.jpg?format=1500w
+hero,image.alt,Scooters voor de deur bij RB Wheels Alphen a/d Rijn
+how_it_works,eyebrow,Zo werkt het
+how_it_works,heading,Van melding tot weer rijden
+how_it_works,steps[1].number,01
+how_it_works,steps[1].title,App of bel je probleem door
+how_it_works,steps[1].text,"Merk, model en wat er aan de hand is — via WhatsApp (06 29 75 40 87) of telefonisch. Vaak binnen een paar uur al een inschatting."
+how_it_works,steps[2].number,02
+how_it_works,steps[2].title,"Wij halen 'm op, of je brengt 'm"
+how_it_works,steps[2].text,"Rijdt je scooter niet meer? Dan kunnen we 'm binnen 24 uur ophalen. Rijdt-ie nog, dan kom je langs op Nikkelweg 519."
+how_it_works,steps[3].number,03
+how_it_works,steps[3].title,"Diagnose, akkoord, klaar"
+how_it_works,steps[3].text,"Je hoort eerst wat er moet gebeuren en wat het kost, pas daarna gaan we aan de slag. Zodra 'ie klaar is, krijg je bericht."
+services,eyebrow,Diensten & prijzen
+services,heading,Waar we je mee helpen
+services,items[1].title,Reparatie
+services,items[1].description,"Motorproblemen, elektrische storingen of andere mankementen — voor alle merken en modellen."
+services,items[1].price_text,Prijs na korte inspectie
+services,items[1].cta.label,Vraag aan
+services,items[1].cta.href,https://wa.me/31629754087?text=Hoi%20RB%20Wheels%2C%20ik%20wil%20een%20reparatie%20laten%20inschatten.
+services,items[1].cta.whatsapp_text,"Hoi RB Wheels, ik wil een reparatie laten inschatten."
+services,items[2].title,Onderhoud
+services,items[2].description,"Motor checken, remmen afstellen, olie en filters vervangen. Regelmatig onderhoud voorkomt dure verrassingen."
+services,items[2].price_text,Kleine beurt € 130 · grote beurt € 230
+services,items[2].cta.label,Plan een beurt
+services,items[2].cta.href,https://wa.me/31629754087?text=Hoi%20RB%20Wheels%2C%20ik%20wil%20een%20onderhoudsbeurt%20inplannen.
+services,items[2].cta.whatsapp_text,"Hoi RB Wheels, ik wil een onderhoudsbeurt inplannen."
+services,items[3].title,Verkoop
+services,items[3].description,Af en toe hebben we gekeurde tweedehands scooters staan. Een verkoop ronden we pas af na ondertekend contract.
+services,items[3].price_text,Beschikbaarheid wisselt
+services,items[3].cta.label,Check voorraad
+services,items[3].cta.href,https://wa.me/31629754087?text=Hoi%20RB%20Wheels%2C%20hebben%20jullie%20op%20dit%20moment%20een%20scooter%20te%20koop%3F
+services,items[3].cta.whatsapp_text,"Hoi RB Wheels, hebben jullie op dit moment een scooter te koop?"
+services,items[4].title,Schadeherstel
+services,items[4].description,"Valschade, gebarsten kuipdelen of een kapotte spiegel — we herstellen 'm zo netjes mogelijk."
+services,items[4].price_text,Prijs hangt af van de schade
+services,items[4].cta.label,Stuur foto's
+services,items[4].cta.href,https://wa.me/31629754087?text=Hoi%20RB%20Wheels%2C%20ik%20heb%20schade%20aan%20mijn%20scooter.
+services,items[4].cta.whatsapp_text,"Hoi RB Wheels, ik heb schade aan mijn scooter."
+fatbikes,eyebrow,Nieuw bij RB Wheels
+fatbikes,heading,Nu ook fatbikes
+fatbikes,text,"Naast scooters repareren en onderhouden we vanaf nu ook elektrische fatbikes — snel, vakkundig en tegen een eerlijke prijs. App ons gerust met je vraag."
+fatbikes,chips[1],Reparatie
+fatbikes,chips[2],Onderhoud
+fatbikes,chips[3],Alle merken fatbikes
+fatbikes,cta.label,Vraag naar fatbike-onderhoud
+fatbikes,cta.href,https://wa.me/31629754087?text=Hoi%20RB%20Wheels%2C%20ik%20wil%20mijn%20fatbike%20laten%20repareren%20of%20onderhouden.
+fatbikes,cta.whatsapp_text,"Hoi RB Wheels, ik wil mijn fatbike laten repareren of onderhouden."
+fatbikes,image.src,https://images.squarespace-cdn.com/content/v1/66d8b61f9d9c6f3606648699/530aa53b-7105-4d21-8a41-b5c6d6741e3c/4.webp?format=1500w
+fatbikes,image.alt,Fatbikes van RB Wheels voor de deur van de garage
+reviews,eyebrow,Wat klanten zeggen
+reviews,heading,Vertrouwd in Alphen aan den Rijn
+reviews,rating,"5,0"
+reviews,rating_label,Gemiddelde score op Google
+reviews,review_count_text,Gebaseerd op 102 reviews
+reviews,socials[1].followers,170+ volgers
+reviews,socials[1].label,Instagram — werkplaats & scooters
+reviews,socials[1].href,https://www.instagram.com/rbwheels/
+reviews,socials[2].followers,990+ volgers
+reviews,socials[2].label,TikTok — #rbwheelsalphen
+reviews,socials[2].href,https://www.tiktok.com/@rb_wheels
+about,eyebrow,Over ons
+about,heading,"Begonnen als hobby, nu je buurtgarage"
+about,text,"RB Wheels is opgericht vanuit pure passie voor scooters: sleutelen, repareren en verbeteren. Wat begon als bezigheid in de vrije tijd, groeide uit tot een vak. In de garage aan de Nikkelweg wordt dagelijks gewerkt aan alles van kleine onderhoudsbeurten tot complexe reparaties — met als doel dat elke scooter weer veilig en soepel de weg op kan, tegen een eerlijke prijs."
+about,values[1],Eerlijke prijzen
+about,values[2],Persoonlijk contact
+about,values[3],Alle merken
+about,values[4],Ophaalservice binnen 24u
+about,image.src,https://images.squarespace-cdn.com/content/v1/66d8b61f9d9c6f3606648699/d2a4ad87-2c59-44b6-ae69-f9d24a791611/real3.webp?format=1500w
+about,image.alt,Aan het werk bij RB Wheels
+gallery,eyebrow,In de werkplaats
+gallery,heading,Zo ziet een werkdag eruit
+gallery,images[1].src,https://images.squarespace-cdn.com/content/v1/66d8b61f9d9c6f3606648699/09903e55-76c4-4e3e-a5e0-f2554f22b96f/real1.webp?format=1500w
+gallery,images[1].alt,Scooters voor de ingang van RB Wheels
+gallery,images[2].src,https://images.squarespace-cdn.com/content/v1/66d8b61f9d9c6f3606648699/123416d9-7ad8-49eb-a141-cb24aff767d5/workshop4.jpg?format=1500w
+gallery,images[2].alt,Scooter onder de werklamp bij RB Wheels
+gallery,images[3].src,https://images.squarespace-cdn.com/content/v1/66d8b61f9d9c6f3606648699/0772b926-eac9-41a7-8355-253023d64470/real2.jpg?format=1500w
+gallery,images[3].alt,Net gereedgemaakte scooter bij RB Wheels
+faq,eyebrow,Veelgestelde vragen
+faq,heading,Nog iets onduidelijk?
+faq,items[1].question,Werken jullie aan alle merken scooters?
+faq,items[1].answer,"Ja, reparatie en onderhoud zijn voor alle merken en modellen scooter — niet alleen specifieke merken."
+faq,items[2].question,"Mijn scooter rijdt niet meer, kan ik 'm toch laten repareren?"
+faq,items[2].answer,"Zeker. We kunnen je scooter binnen 24 uur ophalen, zodat je 'm niet zelf hoeft te vervoeren."
+faq,items[3].question,Weet ik vooraf wat een reparatie kost?
+faq,items[3].answer,"Je krijgt eerst een inschatting op basis van merk, model en klacht. Pas na jouw akkoord gaan we verder."
+faq,items[4].question,Verkopen jullie ook scooters?
+faq,items[4].answer,Af en toe staat er een gekeurde tweedehands scooter te koop. App ons voor de actuele beschikbaarheid.
+faq,items[5].question,Waar zit de garage?
+faq,items[5].answer,"Nikkelweg 519, 2401 MM Alphen aan den Rijn — zie de routebeschrijving hieronder bij Contact."
+contact,eyebrow,Contact
+contact,heading,Langskomen of contact opnemen
+contact,address,"Nikkelweg 519, 2401 MM Alphen aan den Rijn"
+contact,phone,06 29 75 40 87
+contact,email,garage@rbwheels.info
+contact,buttons[1].label,WhatsApp
+contact,buttons[1].href,https://wa.me/31629754087
+contact,buttons[1].whatsapp_text,
+contact,buttons[2].label,Routebeschrijving
+contact,buttons[2].href,https://www.google.com/maps/search/?api=1&query=Nikkelweg+519+2401+MM+Alphen+aan+den+Rijn
+contact,buttons[2].whatsapp_text,
+contact,opening_hours[1].day,Maandag
+contact,opening_hours[1].hours,10:00 – 17:30
+contact,opening_hours[2].day,Dinsdag
+contact,opening_hours[2].hours,10:00 – 17:30
+contact,opening_hours[3].day,Woensdag
+contact,opening_hours[3].hours,10:00 – 17:30
+contact,opening_hours[4].day,Donderdag
+contact,opening_hours[4].hours,10:00 – 17:30
+contact,opening_hours[5].day,Vrijdag
+contact,opening_hours[5].hours,10:00 – 17:30
+contact,opening_hours[6].day,Zaterdag
+contact,opening_hours[6].hours,Gesloten
+contact,opening_hours[7].day,Zondag
+contact,opening_hours[7].hours,Gesloten
+sticky_bar,[1].label,WhatsApp
+sticky_bar,[1].href,https://wa.me/31629754087
+sticky_bar,[1].whatsapp_text,
+sticky_bar,[2].label,Diensten
+sticky_bar,[2].href,https://www.rbwheels.net/#rbw-diensten
+sticky_bar,[2].whatsapp_text,
+popup,heading,10% korting op jouw service naar keuze
+popup,body[1],Laat je e-mailadres achter en ontvang 10% korting op een service naar keuze bij RBwheels Alphen aan den Rijn.
+popup,body[2],"Snel, betrouwbaar en betaalbaar."
+popup,body[3],Wij kunnen je scooter binnen 24 uur ophalen.
+popup,has_newsletter_form,True
+popup,button,Ontvang korting
